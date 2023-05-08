@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/peti-react!/static/css/main.6b733321.css",
+    "main.js": "/peti-react!/static/js/main.1c4c6495.js",
+    "static/js/872.0a8e7cfc.chunk.js": "/peti-react!/static/js/872.0a8e7cfc.chunk.js",
+    "static/js/658.8d0e3b6c.chunk.js": "/peti-react!/static/js/658.8d0e3b6c.chunk.js",
+    "static/js/935.d5b7528b.chunk.js": "/peti-react!/static/js/935.d5b7528b.chunk.js",
+    "static/js/288.4ad2e47c.chunk.js": "/peti-react!/static/js/288.4ad2e47c.chunk.js",
+    "static/js/841.aebfc239.chunk.js": "/peti-react!/static/js/841.aebfc239.chunk.js",
+    "index.html": "/peti-react!/index.html",
+    "main.6b733321.css.map": "/peti-react!/static/css/main.6b733321.css.map",
+    "main.1c4c6495.js.map": "/peti-react!/static/js/main.1c4c6495.js.map",
+    "872.0a8e7cfc.chunk.js.map": "/peti-react!/static/js/872.0a8e7cfc.chunk.js.map",
+    "658.8d0e3b6c.chunk.js.map": "/peti-react!/static/js/658.8d0e3b6c.chunk.js.map",
+    "935.d5b7528b.chunk.js.map": "/peti-react!/static/js/935.d5b7528b.chunk.js.map",
+    "288.4ad2e47c.chunk.js.map": "/peti-react!/static/js/288.4ad2e47c.chunk.js.map",
+    "841.aebfc239.chunk.js.map": "/peti-react!/static/js/841.aebfc239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b733321.css",
+    "static/js/main.1c4c6495.js"
+  ]
+}
