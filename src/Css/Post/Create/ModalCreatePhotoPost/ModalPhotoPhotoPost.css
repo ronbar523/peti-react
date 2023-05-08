@@ -1,0 +1,104 @@
+.modalPhotoPhotoPostHr {
+  color: rgb(149, 148, 148);
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 360px) {
+  .modalPhotoPhotoPostLocation {
+    margin-top: 80px;
+  }
+
+  .modalPhotoPhotoPostBody {
+    margin: auto;
+    margin-top: 29px;
+    margin-bottom: 21.4px;
+    width: 247.5px;
+    height: 247.5px;
+    border: none;
+  }
+
+  .modalPhotoPhotoPostImage {
+    width: 247.5px;
+    height: 247.5px;
+    background-color: lightgray;
+  }
+
+  .modalPhotoPhotoPostInput {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 361px) and (max-width: 405px) {
+  .modalPhotoPhotoPostLocation {
+    margin-top: 80px;
+  }
+
+  .modalPhotoPhotoPostBody {
+    margin: auto;
+    margin-top: 29px;
+    margin-bottom: 21.4px;
+    width: 247.5px;
+    height: 247.5px;
+    border: none;
+  }
+
+  .modalPhotoPhotoPostImage {
+    width: 247.5px;
+    height: 247.5px;
+    background-color: lightgray;
+  }
+
+  .modalPhotoPhotoPostInput {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 405px) and (max-width: 427px) {
+  .modalPhotoPhotoPostLocation {
+    margin-top: 80px;
+  }
+
+  .modalPhotoPhotoPostBody {
+    margin: auto;
+    margin-top: 31.9px;
+    margin-bottom: 24.7px;
+    width: 241.5px;
+    height: 241.5px;
+    border: none;
+  }
+
+  .modalPhotoPhotoPostImage {
+    width: 241.5px;
+    height: 241.5px;
+    background-color: lightgray;
+  }
+
+  .modalPhotoPhotoPostInput {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 427px) {
+  .modalPhotoPhotoPostLocation {
+    margin-top: 70px;
+  }
+
+  .modalPhotoPhotoPostBody {
+    margin: auto;
+    margin-top: 27px;
+    margin-bottom: 20px;
+    width: 290.7px;
+    height: 290.7px;
+    border: none;
+  }
+
+  .modalPhotoPhotoPostImage {
+    width: 290.7px;
+    height: 290.7px;
+    background-color: lightgray;
+  }
+
+  .modalPhotoPhotoPostInput {
+    display: none;
+  }
+}

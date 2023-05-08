@@ -1,0 +1,69 @@
+@media screen and (max-width: 576px) {
+  .modalFollowingLocation {
+    margin-top: 90px;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalFollowingLocation {
+    margin-top: 100px;
+  }
+}
+
+.modalFollowingCloseButton {
+  position: relative;
+  right: 8px;
+}
+
+.modalFollowingDivUser {
+  margin-top: -11px;
+}
+
+.modalFollowingProfileButton {
+  border: none;
+  background-color: white;
+}
+
+.modalFollowingDivUsers {
+  margin-top: 15px;
+  height: 360px;
+  overflow: auto;
+  direction: left;
+}
+
+#modalFollowingScroll {
+  margin-top: 15px;
+  max-height: 460px;
+  overflow-y: auto;
+}
+
+.modalFollowingBoxSearch {
+  margin-left: 15px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.modalFollowingSearch {
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 5px;
+  width: 85%;
+}
+
+/* Location */
+
+/* Following Buttons */
+.modalFollowingFollowButton {
+  float: right;
+  position: relative;
+  top: 20px;
+  right: 15px;
+  width: 95px;
+  height: 30px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 1px;
+}

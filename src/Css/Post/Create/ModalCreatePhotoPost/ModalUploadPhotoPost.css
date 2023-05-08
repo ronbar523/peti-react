@@ -1,0 +1,187 @@
+@media screen and (max-width: 427px) {
+  .modalUploadPhotoPostLocation {
+    margin-top: 80px;
+  }
+}
+
+@media screen and (min-width: 427px) {
+  .modalUploadPhotoPostLocation {
+    margin-top: 70px;
+  }
+}
+
+.modalUploadPhotoPostBoxBody {
+  display: inline;
+  margin-left: 25px;
+  margin-top: 35px;
+  margin-bottom: -102.1px;
+}
+
+.modalUploadPhotoPostButtonBody {
+  display: flex;
+  height: 40px;
+  position: relative;
+  top: -11px;
+}
+
+.modalUploadPhotoPostButtonReloadBody {
+  display: flex;
+  position: relative;
+  top: -11px;
+  right: 15px;
+}
+
+.modalUploadPhotoPostBoxInput {
+  display: flex;
+  align-items: flex-end;
+  margin-left: 7px;
+  height: 40px;
+}
+
+.modalUploadPhotoPostHrFotter {
+  color: rgb(149, 148, 148);
+}
+
+.modalUploadPhotoPostFotter {
+  height: 90px;
+}
+
+@media screen and (min-width: 500px) {
+  .modalUploadPhotoPostBoxBody {
+    display: inline;
+    margin-left: 25px;
+    margin-top: 35px;
+    margin-bottom: -102.1px;
+  }
+
+  .modalUploadPhotoPostPhotoButton {
+    width: 190px;
+    height: 190px;
+    float: right;
+    position: relative;
+    top: -208px;
+    right: 15px;
+  }
+
+  .modalUploadPhotoPostPhoto {
+    width: 190px;
+    height: 190px;
+  }
+
+  .modalUploadPhotoPostInput {
+    width: 155px;
+    position: relative;
+    top: -10px;
+    left: 5px;
+  }
+
+  .modalUploadPhotoPostHrBody {
+    margin-top: -5px;
+    width: 240px;
+  }
+}
+
+@media screen and (min-width: 405px) and (max-width: 500px) {
+  .modalUploadPhotoPostBoxBody {
+    display: inline;
+    margin-left: 15px;
+    margin-top: 35px;
+    margin-bottom: -102.1px;
+  }
+
+  .modalUploadPhotoPostPhotoButton {
+    width: 150px;
+    height: 150px;
+    float: right;
+    position: relative;
+    top: -210px;
+    right: 15px;
+  }
+
+  .modalUploadPhotoPostPhoto {
+    width: 150px;
+    height: 150px;
+  }
+
+  .modalUploadPhotoPostInput {
+    width: 115px;
+    position: relative;
+    top: -10px;
+    left: 5px;
+  }
+
+  .modalUploadPhotoPostHrBody {
+    margin-top: -5px;
+    width: 170px;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 405px) {
+  .modalUploadPhotoPostBoxBody {
+    display: inline;
+    margin-left: 15px;
+    margin-top: 35px;
+    margin-bottom: -52.1px;
+  }
+
+  .modalUploadPhotoPostPhotoButton {
+    width: 95px;
+    height: 95px;
+    float: right;
+    position: relative;
+    top: -205px;
+    right: 15px;
+  }
+
+  .modalUploadPhotoPostPhoto {
+    width: 95px;
+    height: 95px;
+  }
+
+  .modalUploadPhotoPostInput {
+    width: 140px;
+    position: relative;
+    top: -10px;
+    left: 5px;
+  }
+
+  .modalUploadPhotoPostHrBody {
+    margin-top: -5px;
+    width: 190px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .modalUploadPhotoPostBoxBody {
+    display: inline;
+    margin-left: 15px;
+    margin-top: 35px;
+    margin-bottom: -46.5px;
+  }
+
+  .modalUploadPhotoPostPhotoButton {
+    width: 95px;
+    height: 95px;
+    float: right;
+    position: relative;
+    top: -205px;
+    right: 15px;
+  }
+
+  .modalUploadPhotoPostPhoto {
+    width: 95px;
+    height: 95px;
+  }
+
+  .modalUploadPhotoPostInput {
+    width: 120px;
+    position: relative;
+    top: -10px;
+    left: 5px;
+  }
+
+  .modalUploadPhotoPostHrBody {
+    margin-top: -5px;
+    width: 170px;
+  }
+}

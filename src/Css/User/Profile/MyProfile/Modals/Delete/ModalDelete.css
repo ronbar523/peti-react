@@ -1,0 +1,19 @@
+.modalDeleteUserSpaceParagraph {
+  line-height: 25px;
+}
+
+
+@media screen and (max-width: 576px) {
+  .modalDeleteLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalDeleteLocation {
+    margin-top: 100px;
+    width: 350px;
+  }
+}

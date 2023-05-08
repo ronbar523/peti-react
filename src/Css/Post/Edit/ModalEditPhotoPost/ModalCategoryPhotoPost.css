@@ -1,0 +1,96 @@
+@media screen and (max-width: 427px) {
+  .modalCategoryPhotoPostLocation {
+    margin-top: 80px;
+  }
+}
+
+@media screen and (min-width: 427px) {
+  .modalCategoryPhotoPostLocation {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .modalCategoryPhotPostBoxCategories {
+    overflow-y: scroll;
+    direction: left;
+    margin-top: -5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 218px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .modalCategoryPhotPostBoxCategories {
+    overflow-y: scroll;
+    direction: left;
+    margin-top: -5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 258px;
+  }
+}
+
+.modalCategoryPhotoPostBoxSearch {
+  margin-left: 20px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.modalCategoryPhotoPostSearch {
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 5px;
+  width: 85%;
+}
+
+.modalCategoryPhotPostDivCategories {
+  margin-top: 5px;
+}
+
+.modalCategoryPhotoPostCard {
+  height: 67px;
+  width: 90%;
+  position: relative;
+  left: 15px;
+  border: none;
+}
+
+.modalCategoryPhotoPostButton {
+  height: 67px;
+  width: 90%;
+  position: relative;
+  left: 15px;
+  border: none;
+}
+
+.modalCategoryPhotoPostName {
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.modalCategoryPhotoPostName2 {
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 7.5px;
+}
+
+.modalCategoryPhotoPostIconRemove {
+  float: right;
+  position: relative;
+  top: -9px;
+}
+
+.modalCategoryPhotoPostNoResults {
+  font-size: 20px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.modalCategoryPhotoPostHr {
+  color: rgb(149, 148, 148);
+  margin-top: 8px;
+}

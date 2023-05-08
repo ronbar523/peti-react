@@ -1,0 +1,76 @@
+.modalMyFollowersCloseButton {
+  position: relative;
+  right: 8px;
+}
+
+.modalMyFollowersDivUser {
+  margin-top: -11px;
+}
+
+.modalMyFollowersProfileButton {
+  border: none;
+  background-color: white;
+}
+
+.modalMyFollowersBoxSearch {
+  margin-left: 15px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.modalMyFollowersSearch {
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 5px;
+  width: 85%;
+}
+
+.modalMyFollowersDivUsers {
+  margin-top: 15px;
+  height: 360px;
+  overflow: auto;
+  direction: left;
+}
+
+#modalFollowersScroll {
+  margin-top: 15px;
+  max-height: 460px;
+  overflow-y: auto;
+}
+
+/* Followers Buttons */
+.modalFollowersRemoveFollowersButton {
+  float: right;
+  position: relative;
+  top: 17.2px;
+  right: 10.5px;
+}
+
+.modalMyFollowersFollowButton {
+  float: right;
+  position: relative;
+  top: 22px;
+  right: 12px;
+  width: 95px;
+  height: 30px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 1px;
+}
+
+/* Location */
+@media screen and (max-width: 576px) {
+  .modalMyFollowersLocation {
+    margin-top: 90px;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalMyFollowersLocation {
+    margin-top: 100px;
+  }
+}
+

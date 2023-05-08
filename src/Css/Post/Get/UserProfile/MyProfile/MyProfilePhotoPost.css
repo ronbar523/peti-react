@@ -1,0 +1,116 @@
+@media screen and (max-width: 492px) {
+    .myProfilePhotoPostDiv {
+      width: 95vw;
+      margin: auto;
+      margin-top: 15px;
+    }
+  
+    .myProfilePhotoPostButton {
+      border: none;
+      width: 29.03vw;
+      height: 25.8135vw;
+      margin-right: 1%;
+      margin-left: 1.6%;
+      margin-bottom: 12px;
+    }
+  
+    .myProfilePhotoPostImgButton {
+      width: 100%;
+      height: 100%;
+      border: 1px solid black;
+    }
+  }
+  
+  @media screen and (min-width: 493px) and (max-width: 600px) {
+    .myProfilePhotoPostDiv {
+      width: 95vw;
+      margin: auto;
+      margin-top: 20px;
+    }
+  
+    .myProfilePhotoPostButton {
+      border: none;
+      width: 29.03vw;
+      height: 25.8135vw;
+      margin-right: 1%;
+      margin-left: 1.6%;
+      margin-bottom: 12px;
+    }
+  
+    .myProfilePhotoPostImgButton {
+      width: 100%;
+      height: 100%;
+      border: 1px solid black;
+    }
+  }
+  
+  @media screen and (min-width: 601px) and (max-width: 800px) {
+    .myProfilePhotoPostDiv {
+      width: 85vw;
+      margin: auto;
+      margin-top: 20px;
+    }
+  
+    .myProfilePhotoPostButton {
+      border: none;
+      width: 26vw;
+      height: 21.8135vw;
+      margin-right: 1%;
+      margin-left: 1.68%;
+      margin-bottom: 18px;
+    }
+  
+    .myProfilePhotoPostImgButton {
+      width: 100%;
+      height: 100%;
+      border: 1px solid black;
+    }
+  }
+  
+  @media screen and (min-width: 801px) and (max-width: 1500px) {
+    .myProfilePhotoPostDiv {
+      width: 65vw;
+      margin: auto;
+      margin-top: 20px;
+    }
+  
+    .myProfilePhotoPostButton {
+      border: none;
+      width: 19.8135vw;
+      height: 16.8135vw;
+      margin-right: 1%;
+      margin-left: 1.68%;
+      margin-bottom: 22px;
+    }
+  
+    .myProfilePhotoPostImgButton {
+      width: 100%;
+      height: 100%;
+      border: 1px solid black;
+    }
+  }
+  
+  @media screen and (min-width: 1501px) {
+    .myProfilePhotoPostDiv {
+      width: 55vw;
+      margin: auto;
+      margin-top: 20px;
+    }
+  
+    .myProfilePhotoPostButton {
+      border: none;
+      width: 16.8135vw;
+      margin-left: 1.65%;
+      margin-right: 1%;
+      margin-bottom: 23px;
+      height: 14.8135vw;
+    }
+  
+    .myProfilePhotoPostImgButton {
+      border: 1px solid black;
+      width: 100%;
+      height: 100%;
+    }
+  }
+  
+ 

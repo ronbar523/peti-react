@@ -1,0 +1,99 @@
+.modalMyBlockCloseButton {
+  position: relative;
+  right: 8px;
+}
+
+.modalMyBlockDivUser {
+  margin-top: -11px;
+}
+
+.modalMyBlockProfileButton {
+  border: none;
+  background-color: white;
+}
+
+#modalMyBlockScroll {
+  margin-top: 15px;
+  max-height: 460px;
+  overflow-y: auto;
+}
+
+.modalMyBlockDivUsers {
+  margin-top: 15px;
+  height: 280px;
+  overflow: auto;
+  direction: left;
+}
+
+.modalMyBlockBoxSearch {
+  margin-left: 15px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.modalMyBlockSearch {
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 5px;
+  width: 85%;
+}
+
+/* Location */
+@media screen and (max-width: 576px) {
+  .modalMyBlockLocation {
+    margin-top: 90px;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalMyBlockLocation {
+    margin-top: 100px;
+  }
+}
+
+/* Block Buttons */
+@media screen and (max-width: 440px) {
+  .modalMyBlockBlockButton {
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 15px;
+    width: 95px;
+    height: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 1px;
+  }
+}
+
+@media screen and (min-width: 440px) {
+  .modalMyBlockBlockButton {
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 25px;
+    width: 95px;
+    height: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 1px;
+  }
+}
+
+/* Fotter */
+.modalMyBlockFotter {
+  margin-top: -16px;
+  height: 65px;
+}
+
+
+.modalMyBlockAcceptAllButton {
+  float: right;
+  position: relative;
+  right: 15px;
+  top: 15px;
+  bottom: 15px;
+}

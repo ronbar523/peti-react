@@ -1,0 +1,87 @@
+@media screen and (max-width: 427px) {
+  .modalFullPostModalLocationPhotoPostLocation {
+    margin-top: 80px;
+  }
+}
+
+@media screen and (min-width: 427px) {
+  .modalFullPostModalLocationPhotoPostLocation {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .modalFullPostModalLocationPhotoPostBoxOptions {
+    overflow-y: scroll;
+    direction: left;
+    margin-top: -5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 218px;
+  }
+
+  .modalFullPostModalLocationPhotoPostRelaod {
+    margin-left: 45%;
+    margin-top: 90px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .modalFullPostModalLocationPhotoPostBoxOptions {
+    overflow-y: scroll;
+    direction: left;
+    margin-top: -5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 258px;
+  }
+
+  .modalFullPostModalLocationPhotoPostRelaod {
+    margin-top: 108px;
+    margin-left: 45%;
+  }
+}
+
+.modalFullPostModalLocationPhotoPostBoxSearch {
+  margin-left: 20px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.modalFullPostModalLocationPhotoPostSearch {
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 5px;
+  width: 85%;
+}
+
+.modalFullPostModalLocationPhotoPostDivOptions {
+  margin-top: 5px;
+}
+
+.modalFullPostModalLocationPhotoPostButton {
+  height: 67px;
+  width: 90%;
+  position: relative;
+  left: 15px;
+  border: none;
+}
+
+.modalFullPostModalLocationPhotoPostName {
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.modalFullPostModalLocationPhotoPostNoResults {
+  font-size: 20px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.modalFullPostModalLocationPhotoPostHr {
+  color: rgb(149, 148, 148);
+  margin-top: 8px;
+}
+

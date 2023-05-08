@@ -1,0 +1,23 @@
+@media screen and (max-width: 576px) {
+  .modalMessageDeletedCommentLocation {
+    margin-top: 120px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalMessageDeletedCommentLocation {
+    margin-top: 130px;
+    width: 350px;
+  }
+}
+
+.modalMessageDeletedCommentText {
+  line-height: 42px;
+}
+
+.modalMessageDeletedCommentCloseButton {
+  position: relative;
+  right: 8px;
+}

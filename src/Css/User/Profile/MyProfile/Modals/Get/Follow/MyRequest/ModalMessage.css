@@ -1,0 +1,57 @@
+/* Loction */
+@media screen and (max-width: 576px) {
+  .modalRequestMessageLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalRequestMessageLocation {
+    margin-top: 100px;
+    width: 350px;
+  }
+}
+
+/* Body */
+.modalRequestMessageText {
+  line-height: 42px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* Footer */
+.modalRequestMessageFotter {
+  height: 70px;
+}
+
+.modalRequestMessageCancelButton {
+  float: right;
+  position: relative;
+  right: 10px;
+}
+
+.modalRequestMessageAcceptButton {
+  float: right;
+  position: relative;
+  right: 5px;
+  height: 36px;
+  width: 78px;
+}
+
+.modalRequestMessageRejectButton {
+  position: relative;
+  right: 15px;
+  width: 98px;
+  height: 36px;
+}
+
+.modalRequestMessageRemoveFollower {
+  position: relative;
+  right: 15px;
+  width: 148px;
+  height: 36px;
+}

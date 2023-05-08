@@ -1,0 +1,146 @@
+.LoginSystemButtonLogo {
+  border: none;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.loginSystemLogo {
+  width: 150px;
+  height: 80px;
+}
+
+.genderSelectOptions {
+  float: left;
+}
+
+@media screen and (max-width: 700px) {
+  .loginSystemBox {
+    height: 675px;
+    width: 94vw;
+    margin-bottom: 20px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 2.5vh;
+  }
+
+  .buttons-register {
+    margin-top: 15px;
+    float: right;
+    margin-right: 10%;
+  }
+
+  .loginSystemTitle {
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .loginSystemInput {
+    width: 80%;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+  .loginSystemBox {
+    height: 680px;
+    width: 77vw;
+    margin-bottom: 20px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 2.5vh;
+  }
+
+  .buttons-register {
+    margin-top: 15px;
+    float: right;
+    margin-right: 20%;
+  }
+
+  .loginSystemTitle {
+    font-size: 21px;
+    margin-bottom: 30px;
+    margin-top: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .loginSystemInput {
+    width: 60%;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1400px) {
+  .loginSystemBox {
+    height: 680px;
+    width: 60vw;
+    margin-bottom: 20px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 2.5vh;
+  }
+
+  .buttons-register {
+    float: right;
+    margin-right: 25%;
+    margin-top: 15px;
+  }
+
+  .loginSystemTitle {
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-top: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .loginSystemInput {
+    width: 50%;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .loginSystemBox {
+    height: 680px;
+    width: 50vw;
+    margin-bottom: 20px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 2.5vh;
+  }
+
+  .buttons-register {
+    float: right;
+    margin-right: 27.5%;
+    margin-top: 15px;
+  }
+
+  .loginSystemTitle {
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-top: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .loginSystemInput {
+    width: 45%;
+    margin-top: 30px;
+  }
+}

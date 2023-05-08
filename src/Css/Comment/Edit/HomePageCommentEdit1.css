@@ -1,0 +1,121 @@
+@media screen and (min-width: 1100px) {
+  .homePageCommentEditInput1 {
+    width: 82.7%;
+    position: relative;
+    left: 15px;
+  }
+  .homePageCommentEditPhoto1 {
+    position: relative;
+    top: -11px;
+  }
+
+  .homePageCommentEditDivButton1 {
+    margin-top: -40px;
+    margin-left: 74px;
+    margin-bottom: 54.4px;
+  }
+}
+
+@media screen and (min-width: 525px) and (max-width: 1100px) {
+  .homePageCommentEditInput1 {
+    width: 78.5%;
+    position: relative;
+    top: -13px;
+    margin-left: 20px;
+  }
+
+  .homePageCommentEditPhoto1 {
+    position: relative;
+    top: -11px;
+  }
+
+  .homePageCommentEditDivButton1 {
+    margin-top: -58px;
+    margin-left: 79px;
+    margin-bottom: 54.4px;
+  }
+}
+
+@media screen and (min-width: 460px) and (max-width: 525px) {
+  .homePageCommentEditInput1 {
+    width: 76%;
+    position: relative;
+    top: -13px;
+    left: 15px;
+  }
+
+  .homePageCommentEditPhoto1 {
+    position: relative;
+    top: -11px;
+  }
+
+  .homePageCommentEditDivButton1 {
+    margin-top: -58px;
+    margin-left: 74px;
+    margin-bottom: 53.4px;
+  }
+}
+
+@media screen and (min-width: 390px) and (max-width: 460px) {
+  .homePageCommentEditInput1 {
+    width: 76%;
+    position: relative;
+    top: -13px;
+    left: 15px;
+  }
+
+  .homePageCommentEditPhoto1 {
+    position: relative;
+    top: -11px;
+  }
+
+  .homePageCommentEditDivButton1 {
+    margin-top: -58px;
+    margin-left: 74px;
+    margin-bottom: 53.4px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .homePageCommentEditInput1 {
+    width: 72.5%;
+    position: relative;
+    top: -13px;
+    left: 15px;
+  }
+
+  .homePageCommentEditPhoto1 {
+    position: relative;
+    top: -11px;
+  }
+
+  .homePageCommentEditDivButton1 {
+    margin-top: -58px;
+    margin-left: 74px;
+    margin-bottom: 53.4px;
+  }
+}
+
+.homePageCommentEditBoxZeroIndex1 {
+  display: flex;
+  margin-bottom: 56px;
+  margin-left: 9px;
+  margin-top: -30px;
+}
+
+.homePageCommentEditBox1 {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 56px;
+  margin-left: 9px;
+}
+
+.homePageCommentEditButton1 {
+  height: 33px;
+  width: 90px;
+}
+
+.homePageCommentEditButtonText1 {
+  margin-top: 8.5px;
+  font-size: 15px;
+}

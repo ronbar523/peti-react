@@ -1,0 +1,166 @@
+@media screen and (max-width: 576px) {
+  .modalEditLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalEditLocation {
+    margin-top: 100px;
+    width: 350px;
+  }
+}
+
+/* Edit Mail */
+@media screen and (max-width: 440px) {
+  .textFieldEmailModal {
+    margin-top: 90px;
+    width: 230px;
+  }
+}
+
+@media screen and (min-width: 440px) {
+  .textFieldEmailModal {
+    margin-top: 100px;
+    width: 270px;
+  }
+}
+
+.modalChangeEmailSpaceParagraph {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  line-height: 25px;
+}
+
+.modalChangePassowrdTextField {
+  position: relative;
+  left: 7px;
+}
+
+.modalChangeNameTextField {
+  position: relative;
+  left: 7px;
+}
+
+.modalChangePublicText {
+  line-height: 40px;
+}
+
+.modalChangeBioHr {
+  margin-top: -10px;
+}
+
+
+
+/* Edit Photo */
+
+.modalChangePhotoHr {
+  color: rgb(149, 148, 148);
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 360px) {
+  .modalChangePhotoLocation {
+    margin-top: 80px;
+  }
+
+  .modalChangePhotoBody {
+    margin: auto;
+    margin-top: 29px;
+    margin-bottom: 21.4px;
+    width: 247.5px;
+    height: 247.5px;
+    border: none;
+  }
+
+  .modalChangePhotoImage {
+    width: 247.5px;
+    height: 247.5px;
+    background-color: lightgray;
+  }
+
+  .modalChangePhotoInput {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 361px) and (max-width: 405px) {
+  .modalChangePhotoLocation {
+    margin-top: 80px;
+  }
+
+  .modalChangePhotoBody {
+    margin: auto;
+    margin-top: 29px;
+    margin-bottom: 21.4px;
+    width: 247.5px;
+    height: 247.5px;
+    border: none;
+  }
+
+  .modalChangePhotoImage {
+    width: 247.5px;
+    height: 247.5px;
+    background-color: lightgray;
+  }
+
+
+  .modalChangePhotoInput {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 405px) and (max-width: 427px) {
+  .modalChangePhotoLocation {
+    margin-top: 80px;
+  }
+
+  .modalChangePhotoBody {
+    margin: auto;
+    margin-top: 31.9px;
+    margin-bottom: 24.7px;
+    width: 241.5px;
+    height: 241.5px;
+    border: none;
+  }
+
+  .modalChangePhotoImage {
+    width: 241.5px;
+    height: 241.5px;
+    background-color: lightgray;
+  }
+
+
+  .modalChangePhotoInput {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 427px) {
+  .modalChangePhotoLocation {
+    margin-top: 70px;
+  }
+
+  .modalChangePhotoBody {
+    margin: auto;
+    margin-top: 27px;
+    margin-bottom: 20px;
+    width: 290.7px;
+    height: 290.7px;
+    border: none;
+  }
+
+  .modalChangePhotoImage {
+    width: 290.7px;
+    height: 290.7px;
+    background-color: lightgray;
+  }
+
+  .modalChangePhotoInput {
+    display: none;
+  }
+}

@@ -1,0 +1,61 @@
+.SearchUserBodyProfileButton {
+  border: none;
+  background-color: white;
+}
+
+@media screen and (min-width: 800px) {
+  .SearchUserBody {
+    width: 55vw;
+    margin: auto;
+    margin-top: 20px;
+  }
+}
+
+@media screen and (min-width: 610px) and (max-width: 799px) {
+  .SearchUserBody {
+    width: 75vw;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 361px) and (max-width: 609px) {
+  .SearchUserBody {
+    width: 85vw;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 360px) {
+  .SearchUserBody {
+    width: 90vw;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .SearchUserBodyFollowButton {
+    float: right;
+    position: relative;
+    top: 27px;
+    right: 15px;
+    width: 95px;
+    height: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 1px;
+  }
+}
+
+@media screen and (min-width: 440px) {
+  .SearchUserBodyFollowButton {
+    float: right;
+    position: relative;
+    top: 27px;
+    right: 25px;
+    width: 95px;
+    height: 30px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 1px;
+  }
+}

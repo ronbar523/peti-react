@@ -1,0 +1,72 @@
+/* Location */
+@media screen and (max-width: 576px) {
+  .modalCommentLikesLocation1 {
+    margin-top: 90px;
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .modalCommentLikesLocation2 {
+    margin-top: 60px;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalCommentLikesLocation1 {
+    margin-top: 100px;
+  }
+
+  .modalCommentLikesLocation2 {
+    margin-top: 70px;
+  }
+}
+
+.modalCommentLikesDivUsers {
+  margin-top: 15px;
+  height: 360px;
+  overflow: auto;
+  direction: left;
+}
+
+#modalCommentLikesScroll {
+  margin-top: 15px;
+  max-height: 460px;
+  overflow-y: auto;
+}
+
+.modalCommentLikesBoxSearch {
+  margin-left: 15px;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.modalCommentLikesSearch {
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 5px;
+  width: 85%;
+}
+
+.modalCommentLikesDivUser {
+  margin-top: -11px;
+}
+
+.modalCommentLikesProfileButton {
+  border: none;
+  background-color: white;
+}
+
+.modalCommentLikesFollowButton {
+  float: right;
+  position: relative;
+  top: 22px;
+  right: 12px;
+  width: 95px;
+  height: 30px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 1px;
+}

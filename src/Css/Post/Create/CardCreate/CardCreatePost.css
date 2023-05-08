@@ -1,0 +1,44 @@
+
+@media screen and (max-width: 600px) {
+  .cardCreatePost {
+    width: 95vw;
+    height: 153px;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 800px) {
+  .cardCreatePost {
+    width: 85vw;
+    height: 153px;
+  }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1500px) {
+  .cardCreatePost {
+    width: 65vw;
+    height: 153px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .cardCreatePost {
+    width: 55vw;
+    height: 153px;
+  }
+}
+
+.cardCreatePostCard {
+  margin-top: 3px;
+}
+
+.cardCreatePostCardTitle {
+  margin-left: 13px;
+  margin-top: 7px;
+  font-size: 20px;
+}
+
+.cardCreatePostButtons {
+  width: 33%;
+  height: 30;
+}
+

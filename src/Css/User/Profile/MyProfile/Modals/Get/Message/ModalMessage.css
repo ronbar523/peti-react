@@ -1,0 +1,102 @@
+/* Loction */
+@media screen and (max-width: 576px) {
+  .modalBlockMessageLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalBlockMessageLocation {
+    margin-top: 100px;
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 373px) {
+  .modalMessgeIBlockLocation {
+    margin-top: 97px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 373px) and (max-width: 576px) {
+  .modalMessgeIBlockLocation {
+    margin-top: 97px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalMessgeIBlockLocation {
+    margin-top: 107px;
+    width: 350px;
+  }
+}
+
+
+
+
+
+@media screen and (max-width: 373px) {
+  .ModalAlreadyVerifyMessageLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 373px) and (max-width: 576px) {
+  .ModalAlreadyVerifyMessageLocation {
+    margin-top: 97px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .ModalAlreadyVerifyMessageLocation {
+    margin-top: 107px;
+    width: 350px;
+  }
+}
+
+
+.modalMessgeIBlockText {
+  line-height: 30px;
+}
+
+.modalAlreadtVerifyMessageText {
+  line-height: 30px;
+}
+
+/* Body */
+.modalBlockMessageText {
+  line-height: 42px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* Footer */
+.modalBlockMessageFotter {
+  height: 70px;
+}
+
+.modalBlockMessageCancelButton {
+  float: right;
+  position: relative;
+  right: 10px;
+}
+
+.modalBlockMessageAcceptButton {
+  float: right;
+  position: relative;
+  right: 5px;
+  height: 36px;
+  width: 78px;
+}

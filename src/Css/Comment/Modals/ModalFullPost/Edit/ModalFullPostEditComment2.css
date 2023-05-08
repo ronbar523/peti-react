@@ -1,0 +1,154 @@
+@media screen and (min-width: 900px) {
+    .modalFullPostCommentEditBox2 {
+      display: flex;
+      margin-bottom: 72px;
+      margin-left: 72px;
+      margin-top: -1.4px;
+    }
+  
+    .modalFullPostCommentEditInput2 {
+      width: 78.7%;
+      position: relative;
+      top: -13px;
+      margin-left: 13px;
+    }
+  
+    .modalFullPostCommentEditPhoto2 {
+      position: relative;
+      top: -11px;
+    }
+  
+    .modalFullPostCommentEditDivButton2 {
+      margin-top: -75px;
+      position: relative;
+      left: 125px;
+      margin-bottom: 64.4px;
+    }
+  }
+  
+  @media screen and (min-width: 525px) and (max-width: 900px) {
+    .modalFullPostCommentEditBox2 {
+      display: flex;
+      margin-bottom: 56px;
+      margin-left: 40px;
+      margin-top: 3px;
+    }
+  
+    .modalFullPostCommentEditInput2 {
+      width: 80%;
+      position: relative;
+      top: -13px;
+      margin-left: 13px;
+    }
+  
+    .modalFullPostCommentEditPhoto2 {
+      position: relative;
+      top: -11px;
+    }
+  
+    .modalFullPostCommentEditDivButton2 {
+      margin-top: -58px;
+      margin-left: 91px;
+      margin-bottom: 54.4px;
+      position: relative;
+      top: -5px;
+    }
+  }
+  
+  @media screen and (min-width: 460px) and (max-width: 525px) {
+    .modalFullPostCommentEditBox2 {
+      display: flex;
+      margin-bottom: 56px;
+      margin-left: 25px;
+      margin-top: 3px;
+    }
+  
+    .modalFullPostCommentEditInput2 {
+      width: 78%;
+      position: relative;
+      top: -13px;
+      left: 15px;
+    }
+  
+    .modalFullPostCommentEditPhoto2 {
+      position: relative;
+      top: -11px;
+    }
+  
+    .modalFullPostCommentEditDivButton2 {
+      margin-top: -58px;
+      margin-left: 80px;
+      position: relative;
+      top: -5px;
+      margin-bottom: 53.4px;
+    }
+  }
+  
+  @media screen and (min-width: 390px) and (max-width: 460px) {
+    .modalFullPostCommentEditBox2 {
+      display: flex;
+      margin-bottom: 56px;
+      margin-top: 3px;
+      margin-left: 20px;
+    }
+  
+    .modalFullPostCommentEditInput2 {
+      width: 78%;
+      position: relative;
+      top: -13px;
+      left: 15px;
+    }
+  
+    .modalFullPostCommentEditPhoto2 {
+      position: relative;
+      top: -11px;
+    }
+  
+    .modalFullPostCommentEditDivButton2 {
+      margin-top: -58px;
+      margin-left: 75px;
+      margin-bottom: 53.4px;
+      position: relative;
+      top: -5px;
+    }
+  }
+  
+  @media screen and (max-width: 390px) {
+    .modalFullPostCommentEditBox2 {
+      display: flex;
+      margin-top: 3.5px;
+      margin-bottom: 56px;
+      margin-left: 25px;
+    }
+  
+    .modalFullPostCommentEditInput2 {
+      width: 77%;
+      position: relative;
+      left: 10px;
+      top: -13px;
+    }
+  
+    .modalFullPostCommentEditPhoto2 {
+      position: relative;
+      top: -11px;
+    }
+  
+    .modalFullPostCommentEditDivButton2 {
+      margin-top: -58px;
+      margin-left: 74px;
+      position: relative;
+      top: -5px;
+      margin-bottom: 53.4px;
+    }
+  }
+  
+  .modalFullPostCommentEditButton2 {
+    height: 33px;
+    width: 90px;
+  }
+  
+  .modalFullPostCommentEditButtonText2 {
+    margin-top: 8.5px;
+    font-size: 15px;
+  }
+  

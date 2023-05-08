@@ -1,0 +1,69 @@
+@media screen and (min-width: 525px) {
+    .modalFullPostCommentCreateInput1 {
+      width: 78.7%;
+      position: relative;
+      left: 15px;
+    }
+  }
+  
+  @media screen and (min-width: 460px) and (max-width: 525px) {
+    .modalFullPostCommentCreateInput1 {
+      width: 76%;
+      position: relative;
+      left: 15px;
+    }
+  }
+  
+  @media screen and (min-width: 390px) and (max-width: 460px) {
+    .modalFullPostCommentCreateInput1 {
+      width: 76%;
+      position: relative;
+      left: 15px;
+    }
+  }
+  
+  @media screen and (max-width: 390px) {
+    .modalFullPostCommentCreateInput1 {
+      width: 72.5%;
+      position: relative;
+      left: 15px;
+    }
+  }
+  
+  
+  .modalFullPostCommentCreateBoxWithComment1 {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    
+  }
+  
+  .modalFullPostCommentCreateBoxWithCommentAndButton1 {
+    display: flex;
+    margin-bottom: 46px;
+    margin-left: 10px;
+  }
+  
+  .modalFullPostCommentCreateButtonWithComment1 {
+    left: 76px;
+    width: 90px;
+    height: 33px;
+    position: relative;
+    top: -32px;
+  }
+  
+  .modalFullPostCommentCreateBoxWithoutComment1 {
+    display: flex;
+    margin-bottom: 21px;
+    margin-left: 10px;
+  }
+  
+  .modalFullPostCommentCreateButtonWithoutComment1 {
+    left: 76px;
+    width: 90px;
+    height: 33px;
+    position: relative;
+    top: -5px;
+    margin-bottom: 5px;
+  }
+  

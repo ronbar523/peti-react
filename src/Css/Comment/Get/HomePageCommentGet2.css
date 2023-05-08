@@ -1,0 +1,573 @@
+/* Card and UserName */
+@media screen and (max-width: 390px) {
+  .homePageCommentGetBox2 {
+    display: flex;
+    position: relative;
+    top: -8px;
+    margin-left: 25px;
+  }
+
+  .homePageCommentGetDiv2 {
+    margin-left: 6px;
+    width: 79.5%;
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+  }
+
+  .homePageCommentGetUserNameText2 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 390px) and (max-width: 460px) {
+  .homePageCommentGetBox2 {
+    display: flex;
+    position: relative;
+    top: -8px;
+    margin-left: 20px;
+  }
+
+  .homePageCommentGetDiv2 {
+    margin-left: 12px;
+    width: 80%;
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+  }
+
+  .homePageCommentGetUserNameText2 {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 460px) and (max-width: 525px) {
+  .homePageCommentGetBox2 {
+    display: flex;
+    position: relative;
+    top: -8px;
+    margin-left: 25px;
+  }
+
+  .homePageCommentGetDiv2 {
+    margin-left: 6px;
+    width: 81%;
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+  }
+
+  .homePageCommentGetUserNameText2 {
+    font-size: 1em;
+  }
+}
+
+@media screen and (min-width: 525px) and (max-width: 900px) {
+  .homePageCommentGetBox2 {
+    display: flex;
+    position: relative;
+    top: -8px;
+    margin-left: 40px;
+  }
+
+  .homePageCommentGetDiv2 {
+    margin-left: 6.5px;
+    width: 82.5%;
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+  }
+
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    bottom: 7px;
+    left: 115px;
+    width: 71%;
+  }
+
+  .homePageCommentGetUserNameText2 {
+    font-size: 1.1em;
+  }
+}
+
+
+
+@media screen and (min-width: 900px) and (max-width: 1100px){
+  .homePageCommentGetBox2 {
+    display: flex;
+    position: relative;
+    margin-left: 72px;
+    top: -13px;
+  }
+
+  .homePageCommentGetDiv2 {
+    margin-left: 6px;
+    width: 81%;
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+  }
+
+  .homePageCommentGetUserNameText2 {
+    font-size: 16.5px;
+  }
+}
+
+
+@media screen and  (min-width: 1100px){
+  .homePageCommentGetBox2 {
+    display: flex;
+    position: relative;
+    margin-left: 72px;
+    top: -13px;
+  }
+
+  .homePageCommentGetDiv2 {
+    margin-left: 6px;
+    width: 84.8%;
+    background-color: rgb(244, 242, 242);
+    border-radius: 20px;
+  }
+
+  .homePageCommentGetUserNameText2 {
+    font-size: 16.5px;
+  }
+}
+
+/* LikeButton */
+@media screen and (max-width: 1200px) {
+  .homePageCommentGetLikeShow2 {
+    float: right;
+    position: relative;
+    right: 10px;
+    width: 35px;
+    height: 35px;
+  }
+
+  .homePageCommentGetSettingsShow2 {
+    float: right;
+    position: relative;
+    right: 7px;
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .homePageCommentGetLikeShow2 {
+    float: right;
+    position: relative;
+    right: 15px;
+    top: -0.5px;
+    width: 35px;
+    height: 35px;
+  }
+
+  .homePageCommentGetSettingsShow2 {
+    float: right;
+    position: relative;
+    right: 12px;
+    width: 35px;
+    height: 35px;
+  }
+}
+
+/* Description */
+@media screen and (max-width: 390px) {
+  .homePageCommentGetUserNameButton2 {
+    border: none;
+    margin-left: 20px;
+    margin-top: 8px;
+    display: inline;
+  }
+
+  .homePageCommentGetDescription2 {
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 12px;
+    margin-left: 21px;
+    margin-bottom: 10px;
+  }
+  .homePageCommentGetShowDescriptionText2 {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 390px) and (max-width: 460px) {
+  .homePageCommentGetUserNameButton2 {
+    border: none;
+    margin-left: 22px;
+    margin-top: 8px;
+    display: inline;
+  }
+
+  .homePageCommentGetDescription2 {
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 12px;
+    margin-left: 24px;
+    margin-bottom: 10px;
+  }
+
+  .homePageCommentGetShowDescriptionText2 {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 460px) and (max-width: 525px) {
+  .homePageCommentGetUserNameButton2 {
+    border: none;
+    margin-left: 25px;
+    margin-top: 8px;
+    display: inline;
+  }
+
+  .homePageCommentGetDescription2 {
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 0.85em;
+    margin-left: 25px;
+    margin-bottom: 10px;
+  }
+  .homePageCommentGetShowDescriptionText2 {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 525px) {
+  .homePageCommentGetUserNameButton2 {
+    border: none;
+    margin-left: 25px;
+    margin-top: 8px;
+    display: inline;
+  }
+
+  .homePageCommentGetDescription2 {
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 1em;
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+  }
+
+  .homePageCommentGetShowDescriptionText2 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    left: 30px;
+    top: -12px;
+    width: 85%;
+  }
+
+  .homePageCommentGetCommentButton2 {
+    border: none;
+    background-color: white;
+    margin-left: 15px;
+    position: relative;
+    top: -0.5px;
+  }
+
+  .homePageCommentGetCreatedAt2 {
+    float: right;
+    position: relative;
+    right: 15px;
+    border: none;
+    background-color: white;
+    margin-top: 6px;
+  }
+
+  .homePageCommentGetCreatedAtText2 {
+    font-size: 10px;
+  }
+
+  .homePageCommentGetText2 {
+    font-size: 10px;
+  }
+
+  .homePageCommentGetLikeButton2 {
+    display: inline;
+    border: none;
+    background-color: white;
+    margin-left: 62px;
+    position: relative;
+    top: -0.5px;
+  }
+}
+
+@media screen and (min-width: 390px) and (max-width: 461px) {
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    top: -10px;
+    left: 25px;
+    width: 87%;
+  }
+
+  .homePageCommentGetCommentButton2 {
+    border: none;
+    background-color: none;
+    margin-left: 17px;
+    background-color: white;
+    position: relative;
+    top: -2px;
+  }
+
+  .homePageCommentGetCreatedAt2 {
+    float: right;
+    position: relative;
+    right: 10px;
+    margin-top: 4px;
+    border: none;
+    background-color: white;
+  }
+  .homePageCommentGetCreatedAtText2 {
+    font-size: 10px;
+  }
+
+  .homePageCommentGetText2 {
+    font-size: 10px;
+  }
+
+  .homePageCommentGetLikeButton2 {
+    display: inline;
+    border: none;
+    background-color: white;
+    margin-left: 71px;
+    position: relative;
+    top: -2px;
+  }
+}
+
+@media screen and (min-width: 461px) and (max-width: 525px) {
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    top: -7px;
+    left: 70px;
+    width: 75%;
+  }
+
+  .homePageCommentGetLikeButton2 {
+    display: inline;
+    border: none;
+    background-color: white;
+    margin-left: 27px;
+    position: relative;
+    top: -2px;
+  }
+
+  .homePageCommentGetCommentButton2 {
+    border: none;
+    background-color: white;
+    margin-left: 17px;
+    position: relative;
+    top: -2px;
+  }
+
+  .homePageCommentGetCreatedAt2 {
+    float: right;
+    margin-top: 1px;
+    position: relative;
+    right: 6px;
+    border: none;
+    background-color: white;
+  }
+  .homePageCommentGetCreatedAtText2 {
+    font-size: 11px;
+  }
+
+  .homePageCommentGetText2 {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 525px) and (max-width: 900px) {
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    top: -5px;
+    left: 58px;
+    width: 81%;
+  }
+
+  .homePageCommentGetLikeButton2 {
+    display: inline;
+    border: none;
+    background-color: white;
+    margin-left: 55px;
+    position: relative;
+    top: -3.5px;
+  }
+
+  .homePageCommentGetCommentButton2 {
+    border: none;
+    background-color: white;
+    margin-left: 17px;
+    position: relative;
+    top: -3.5px;
+  }
+
+  .homePageCommentGetCreatedAt2 {
+    float: right;
+    border: none;
+    margin-right: 11.5px;
+    background-color: white;
+    position: relative;
+    top: -2.5px;
+  }
+
+  .homePageCommentGetCreatedAtText2 {
+    font-size: 14px;
+  }
+
+  .homePageCommentGetText2 {
+    font-size: 14px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 900px) and (max-width: 1100px) {
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    top: -12px;
+    width: 79%;
+    margin-left: 72px;
+  }
+
+  .homePageCommentGetLikeButton2 {
+    display: inline;
+    border: none;
+    background-color: white;
+    position: relative;
+    top: -2px;
+    margin-left: 70px;
+  }
+
+  .homePageCommentGetCommentButton2 {
+    border: none;
+    background-color: white;
+    margin-left: 15px;
+    margin-top: 1px;
+    position: relative;
+    top: -2px;
+  }
+
+  .homePageCommentGetCreatedAt2 {
+    float: right;
+    margin-right: 17px;
+    border: none;
+    background-color: white;
+  }
+
+  .homePageCommentGetCreatedAtText2 {
+    font-size: 14px;
+  }
+
+  .homePageCommentGetText2 {
+    font-size: 14px;
+  }
+}
+
+
+
+
+
+@media screen and (min-width: 1100px) {
+  .homePageCommentGetBoxButtons2 {
+    position: relative;
+    top: -12px;
+    width: 82.5%;
+    margin-left: 72px;
+  }
+
+  .homePageCommentGetLikeButton2 {
+    display: inline;
+    border: none;
+    background-color: white;
+    position: relative;
+    top: -2px;
+    margin-left: 70px;
+  }
+
+  .homePageCommentGetCommentButton2 {
+    border: none;
+    background-color: white;
+    margin-left: 15px;
+    margin-top: 1px;
+    position: relative;
+    top: -2px;
+  }
+
+  .homePageCommentGetCreatedAt2 {
+    float: right;
+    margin-right: 16px;
+    border: none;
+    background-color: white;
+  }
+
+  .homePageCommentGetCreatedAtText2 {
+    font-size: 14px;
+  }
+
+  .homePageCommentGetText2 {
+    font-size: 14px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 390px) {
+  .homePageCommentGetShowDescriptionButton2 {
+    color: blue;
+    border: none;
+    background: none;
+    margin-left: 21px;
+  }
+}
+
+@media screen and (min-width: 390px) and (max-width: 460px) {
+  .homePageCommentGetShowDescriptionButton2 {
+    color: blue;
+    border: none;
+    background: none;
+    margin-left: 25px;
+  }
+}
+
+@media screen and (min-width: 460px) {
+  .homePageCommentGetShowDescriptionButton2 {
+    color: blue;
+    border: none;
+    background: none;
+    margin-left: 26px;
+  }
+}
+
+.homePageCommentGetTextDescription2 {
+  text-decoration: underline;
+}

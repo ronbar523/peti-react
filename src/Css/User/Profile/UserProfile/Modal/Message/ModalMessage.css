@@ -1,0 +1,41 @@
+@media screen and (max-width: 576px) {
+  .modalMessageLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalMessageLocation {
+    margin-top: 100px;
+    width: 350px;
+  }
+}
+
+/* Body */
+.modalMessageText {
+  line-height: 42px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* Fotter */
+.modalMessageFotter {
+  height: 70px;
+}
+
+.modalMessageRemoveFollower {
+  position: relative;
+  right: 15px;
+  width: 148px;
+  height: 36px;
+}
+
+.modalMessageCancelButton {
+  float: right;
+  position: relative;
+  right: 10px;
+}

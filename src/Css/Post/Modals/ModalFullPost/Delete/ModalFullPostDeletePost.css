@@ -1,0 +1,18 @@
+@media screen and (max-width: 576px) {
+  .modalFullPostDeletePostLocation {
+    margin-top: 90px;
+    width: 82%;
+    margin-left: 9%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .modalFullPostDeletePostLocation {
+    margin-top: 100px;
+    width: 350px;
+  }
+}
+
+.modalFullPostDeletePostText {
+  line-height: 35px;
+}

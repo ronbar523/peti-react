@@ -1,0 +1,310 @@
+@media screen and (max-width: 600px) {
+  .homePagePostCard {
+    width: 95vw;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+
+  .homePagePostCardPhoto {
+    margin-left: 10vw;
+    width: 75vw;
+    max-height: 60vw;
+  }
+
+  .homePagePostCardDescription {
+    margin-left: 25px;
+    width: 30vw;
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 18.5px;
+  }
+
+  .homePagePostCardShowMoreDescriptionPost {
+    background-color: white;
+    color: blue;
+    border: none;
+    position: relative;
+    top: -15px;
+    font-size: 16px;
+    margin-bottom: 2px;
+    margin-left: 25px;
+  }
+
+  .homePagePostCardDivActionButtons {
+    margin-top: -11px;
+    width: 75vw;
+    margin-left: 10vw;
+  }
+
+  .homePagePostCardLikeButton {
+    width: 22vw;
+  }
+
+  .homePagePostCardCommentButton {
+    width: 22vw;
+    position: relative;
+    left: 4.2vw;
+  }
+
+  .homePagePostCardShareButton {
+    width: 22vw;
+    position: relative;
+    left: 8.4vw;
+  }
+
+  .homePagePostCardButtonText {
+    margin-top: 10px;
+    margin-left: 7px;
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 800px) {
+  .homePagePostCard {
+    width: 85vw;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+
+  .homePagePostCardPhoto {
+    margin-left: 7.5vw;
+    width: 70vw;
+    max-height: 60vw;
+  }
+
+  .homePagePostCardDescription {
+    margin-left: 3.3vw;
+    width: 30vw;
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 17px;
+  }
+
+  .homePagePostCardShowMoreDescriptionPost {
+    background-color: white;
+    color: blue;
+    border: none;
+    position: relative;
+    top: -15px;
+    font-size: 16px;
+    margin-bottom: 2px;
+    margin-left: 3.3vw;
+  }
+
+  .homePagePostCardDivActionButtons {
+    margin-top: -11px;
+    width: 70vw;
+    margin-left: 7.5vw;
+  }
+
+  .homePagePostCardLikeButton {
+    width: 19vw;
+  }
+
+  .homePagePostCardCommentButton {
+    width: 19vw;
+    position: relative;
+    left: 6.5vw;
+  }
+
+  .homePagePostCardShareButton {
+    width: 19vw;
+    position: relative;
+    left: 12.5vw;
+  }
+
+  .homePagePostCardButtonText {
+    margin-top: 8.5px;
+    margin-left: 7px;
+  }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1500px) {
+  .homePagePostCard {
+    width: 65vw;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+
+  .homePagePostCardPhoto {
+    margin-left: 10vw;
+    width: 45vw;
+    max-height: 40vw;
+  }
+
+  .homePagePostCardDescription {
+    margin-left: 2.1vw;
+    width: 30vw;
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 17px;
+  }
+
+  .homePagePostCardShowMoreDescriptionPost {
+    background-color: white;
+    color: blue;
+    border: none;
+    position: relative;
+    top: -15px;
+    font-size: 16px;
+    margin-bottom: 2px;
+    margin-left: 2.1vw;
+  }
+
+  .homePagePostCardDivActionButtons {
+    margin-top: -11px;
+    width: 45vw;
+    margin-left: 10vw;
+  }
+
+  .homePagePostCardLikeButton {
+    width: 12.5vw;
+  }
+
+  .homePagePostCardCommentButton {
+    width: 12.5vw;
+    position: relative;
+    left: 3.85vw;
+  }
+
+  .homePagePostCardShareButton {
+    width: 12.5vw;
+    position: relative;
+    left: 7.7vw;
+  }
+
+  .homePagePostCardButtonText {
+    margin-top: 10px;
+    margin-left: 7px;
+  }
+  
+  
+  .homePagePostCardLikeIcon {
+    font-size: 31px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .homePagePostCard {
+    width: 55vw;
+    margin: auto;
+    margin-bottom: 40px;
+  }
+
+  .homePagePostCardPhoto {
+    margin-left: 5vw;
+    width: 45vw;
+    max-height: 35vw;
+  }
+
+  .homePagePostCardDescription {
+    margin-left: 1.5vw;
+    width: 30vw;
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-size: 17.5px;
+  }
+
+  .homePagePostCardShowMoreDescriptionPost {
+    background-color: white;
+    color: blue;
+    border: none;
+    position: relative;
+    top: -15px;
+    font-size: 16px;
+    margin-bottom: 2px;
+    margin-left: 1.5vw;
+  }
+
+  .homePagePostCardDivActionButtons {
+    margin-top: -11px;
+    width: 30vw;
+    margin-left: 5vw;
+  }
+
+  .homePagePostCardLikeButton {
+    width: 9vw;
+  }
+
+  .homePagePostCardCommentButton {
+    width: 9vw;
+    position: relative;
+    left: 9vw;
+  }
+
+  .homePagePostCardShareButton {
+    width: 9vw;
+    position: relative;
+    left: 18vw;
+  }
+
+  .homePagePostCardButtonText {
+    margin-top: 7px;
+    margin-left: 7px;
+  }
+}
+
+.homePagePostCardButtonName {
+  border: none;
+  background-color: white;
+}
+
+.homePagePostCardButtonSettings {
+  position: relative;
+  top: 7px;
+}
+
+.homePagePostCardDivPhoto {
+  margin-top: -5px;
+  margin-bottom: 10px;
+  background-color: rgb(244, 242, 242);
+}
+
+.homePagePostCardHrActionButtons  {
+  margin-top: 5px;
+}
+
+.homePagePostCardDivUsersTag {
+  margin-top: 9px;
+  margin-left: 17px;
+}
+
+.homePagePostCardDivUsersTag2 {
+  margin-top: -4px;
+  margin-left: 17px;
+}
+
+.homePagePostCardButtonTag {
+  border: none;
+  margin-left: 12px;
+  margin-right: -3px;
+  font-size: 18x;
+  background-color: white;
+}
+
+.homePagePostCardButtonTag {
+  border: none;
+  margin-left: 15px;
+  margin-right: -3px;
+  background-color: white;
+}
+
+.homePagePostCardLocationText {
+  margin-top: 7px;
+  margin-left: 15px;
+}
+
+.homePagePostCardButtonShowLikes {
+  border: none;
+  background-color: white;
+  margin-top: -14px;
+  margin-left: 12px;
+  width: 55px;
+  height: 30px;
+}
+
+
+.homePagePostCardButtonTextDecoration {
+  text-decoration: underline;
+}
+

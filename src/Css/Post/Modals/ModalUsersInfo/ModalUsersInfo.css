@@ -1,0 +1,124 @@
+@media screen and (max-width: 470px) {
+  .modalUsersInfo {
+    width: 300px;
+    height: 165px;
+  }
+  .modalUsersInfoMenu {
+    margin-right: 5px;
+    margin-top: 30px;
+  }
+
+
+  .modalUsersInfoDivButtonsProfile {
+    position: relative;
+    top: -10px;
+    left: -18px;
+  }
+
+  .modalUsersInfoButtonProfile {
+    background-color: white;
+    display: block;
+    border: none;
+    text-align: left;
+  }
+
+  .modalUserInfoButtonPhoto {
+    width: 105px;
+    height: 105px;
+    position: relative;
+    top: -15px;
+    left: -10px;
+    bottom: 15px;
+  }
+
+  .modalUserInfoEditButton {
+    position: relative;
+    top: -15px;
+    left: 25px;
+  }
+
+  .modalUserInfoDeleteButton {
+    position: relative;
+    top: -15px;
+    left: 15px;
+  }
+
+  .modalUserInfoFollowButton {
+    position: relative;
+    top: -15px;
+    left: 18px;
+  }
+
+  .modalUserInfoMessageutton {
+    position: relative;
+    top: -15px;
+    left: 28px;
+  }
+  .modalUserInfoTagButton {
+    position: relative;
+    top: -15px;
+    left: 17px;
+  }
+}
+
+@media screen and (min-width: 470px) {
+  .modalUsersInfo {
+    width: 315px;
+    height: 180px;
+  }
+  .modalUsersInfoMenu {
+    margin-right: 5px;
+  }
+
+  .modalUsersInfoDivButtonsProfile {
+    position: relative;
+    top: -7px;
+    left: -10px;
+  }
+
+  .modalUsersInfoButtonProfile {
+    background-color: white;
+    display: block;
+    border: none;
+    text-align: left;
+  }
+
+  .modalUserInfoButtonPhoto {
+    width: 115px;
+    height: 115px;
+    position: relative;
+    left: -8px;
+    top: -15px;
+    bottom: 25px;
+  }
+
+  .modalUserInfoEditButton {
+    position: relative;
+    top: -15px;
+    left: 27px;
+  }
+
+  .modalUserInfoDeleteButton {
+    position: relative;
+    top: -15px;
+    left: 17px;
+  }
+
+  .modalUserInfoFollowButton {
+    position: relative;
+    top: -15px;
+    left: 17px;
+  }
+
+  .modalUserInfoMessageutton {
+    position: relative;
+    top: -15px;
+    left: 27px;
+  }
+
+  .modalUserInfoTagButton {
+    position: relative;
+    top: -15px;
+    left: 17px;
+  }
+}
